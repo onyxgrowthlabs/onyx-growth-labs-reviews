@@ -1,6 +1,6 @@
 # Onyx Growth Labs Reviews
 
-**Onyx Growth Labs** is a data-driven SEO and digital marketing agency based in Abbottabad, Pakistan - rated **5.0 on Google**.
+**Onyx Growth Labs** is a data-driven SEO and digital marketing agency rated **5.0 on Google**.
 
 This repository hosts the public reviews page for Onyx Growth Labs, collecting its Google rating, its Google review, and the client reviews published on the company website, with Review schema (JSON-LD) implemented on the page.
 
@@ -29,4 +29,3 @@ https://onyxgrowthlabs.github.io/onyx-growth-labs-reviews/
 
 - Email: contact@onyxgrowthlabs.com
 - Phone: +92 323 4895452
-- Location: Abbottabad, Khyber Pakhtunkhwa, Pakistan
