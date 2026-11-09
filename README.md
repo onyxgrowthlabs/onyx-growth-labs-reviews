@@ -1,14 +1,14 @@
 # Onyx Growth Labs Reviews
 
-**Onyx Growth Labs** is a data-driven SEO and digital marketing agency rated **5.0 on Google**.
+A public-facing reviews and services page for Onyx Growth Labs, with links to official review platforms and worldwide service areas.
 
-This repository hosts the public reviews page for Onyx Growth Labs, collecting its Google rating, its Google review, and the client reviews published on the company website, with Review schema (JSON-LD) implemented on the page.
+## Live site
 
-## Live Page
+- Home: https://onyxgrowthlabs.github.io/onyx-growth-labs-reviews/
+- Service areas: https://onyxgrowthlabs.github.io/onyx-growth-labs-reviews/service-area.html
+- XML sitemap: https://onyxgrowthlabs.github.io/onyx-growth-labs-reviews/sitemap.xml
 
-https://onyxgrowthlabs.github.io/onyx-growth-labs-reviews/
-
-## Official Links
+## Official links
 
 - Website: https://onyxgrowthlabs.com/
 - Google reviews: https://www.google.com/maps/search/Onyx+Growth+Labs+Abbottabad
